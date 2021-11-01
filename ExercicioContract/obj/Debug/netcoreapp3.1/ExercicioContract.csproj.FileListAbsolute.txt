@@ -1,0 +1,14 @@
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.csproj.AssemblyReference.cache
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.AssemblyInfoInputs.cache
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.AssemblyInfo.cs
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.csproj.CoreCompileInputs.cache
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.exe
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.deps.json
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.runtimeconfig.json
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.runtimeconfig.dev.json
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.dll
+C:\Exercicios C#\ExercicioContract\ExercicioContract\bin\Debug\netcoreapp3.1\ExercicioContract.pdb
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.dll
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.pdb
+C:\Exercicios C#\ExercicioContract\ExercicioContract\obj\Debug\netcoreapp3.1\ExercicioContract.genruntimeconfig.cache
